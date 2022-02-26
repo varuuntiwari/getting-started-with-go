@@ -8,3 +8,7 @@ Solutions for `Getting Started with Go` offered by UCI on Coursera
 - [Assignment 1](Week_2/trunc.go)
 - [Assignment 2](Week_2/findian.go)
 - [Quiz](Week_2/Quiz2.md)
+
+## Week 3
+- [Assignment](Week_3/slice.go)
+- [Quiz](Week_3/Quiz.md)
