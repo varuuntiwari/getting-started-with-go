@@ -13,5 +13,5 @@ Solutions for `Getting Started with Go` offered by UCI on Coursera
 - [Quiz](Week_3/Quiz3.md)
 
 ## Week 4
-- [Assignment 1](Week_2/makejson.go)
-- [Assignment 2](Week_2/read.go)
+- [Assignment 1](Week_4/makejson.go)
+- [Assignment 2](Week_4/read.go)
